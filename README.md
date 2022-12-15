@@ -36,7 +36,6 @@ Formulário com validação que recebe dados de um usuário (nome, ano de nascim
 ### Demonstração
 <div align="center">
     <img width="250" alt="piratas-do-caribe-foto-1" src=".github/formulario-1.jpg" />
-    <img width="250" alt="formulario-foto-2" src=".github/formulario-2.jpg" />
     <img width="250" alt="formulario-foto-3" src=".github/formulario-3.jpg" />
     <img width="250" alt="formulario-foto-4" src=".github/formulario-4.jpg" />
 </div>
