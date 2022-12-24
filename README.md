@@ -84,7 +84,7 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)<br>4
 
-> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo.
+> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo acessando este link: [expo.dev](hhttps://snack.expo.dev/@joaopcarvalho/github.com-johnpetros-form-validation?platform=android).
 
 #### 📟 Rodando o Mobile
 
